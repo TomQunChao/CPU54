@@ -1,0 +1,36 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/ip/Ram/sim/Ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/ALU_ext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_ext
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/ALU_exters.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_exters
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/CP0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CP0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/Controler.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controler
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/IR_Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR_Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/MUL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUL
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/address.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module address
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/clk_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/cpu_bus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_bus
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/data_bus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_bus
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/gernal_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gernal_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/hi_lo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hi_lo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/pcreg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pcreg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sources_1/new/sccomp_dataflow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workspace/vivado/CPU54/CPU54.srcs/sim_1/new/cpu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_tb
